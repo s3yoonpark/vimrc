@@ -11,6 +11,7 @@ set si
 set nobackup
 set noswapfile
 set noundofile
+set mouse=a
 
 inoremap { {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
